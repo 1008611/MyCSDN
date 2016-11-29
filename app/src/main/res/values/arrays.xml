@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+
+    <string-array name="blog">
+        <item>随笔</item>
+        <item>RN</item>
+        <item>Cordova</item>
+        <item>Android</item>
+        <item>读书笔记</item>
+        <item>面向对象</item>
+        <item>设计模式</item>
+        <item>Python</item>
+    </string-array>
+
+    <string-array name="blog_cid">
+        <item>6303710</item>
+        <item>6303959</item>
+        <item>6326341</item>
+        <item>6363230</item>
+        <item>6424304</item>
+        <item>6426292</item>
+        <item>6426293</item>
+        <item>6451838</item>
+    </string-array>
+
+    <string-array name="csdn">
+        <item>全部专家</item>
+        <item>移动开发</item>
+        <item>Web前端</item>
+        <item>架构设计</item>
+        <item>编程语言</item>
+        <item>互联网</item>
+        <item>数据库</item>
+        <item>系统运维</item>
+        <item>云计算</item>
+        <item>研发管理</item>
+    </string-array>
+
+    <string-array name="csdn_cid">
+        <item>0</item>
+        <item>1</item>
+        <item>14</item>
+        <item>15</item>
+        <item>16</item>
+        <item>17</item>
+        <item>6</item>
+        <item>12</item>
+        <item>2</item>
+        <item>3</item>
+    </string-array>
+
+    <string-array name="lib">
+        <item>移动开发</item>
+        <item>云计算/大数据</item>
+        <item>编程语言</item>
+        <item>数据库</item>
+        <item>软件工程</item>
+        <item>前端开发</item>
+        <item>智能硬件</item>
+        <item>理论基础</item>
+        <item>操作系统</item>
+        <item>综合应用</item>
+    </string-array>
+
+    <string-array name="lib_cid">
+        <item>Mobile-Develop</item>
+        <item>Cloud</item>
+        <item>Programming-Language</item>
+        <item>data-base</item>
+        <item>software-engineering</item>
+        <item>front-end-development</item>
+        <item>Smart-Device</item>
+        <item>basis</item>
+        <item>operating-system</item>
+        <item>Application-industry</item>
+    </string-array>
+
+
+</resources>
